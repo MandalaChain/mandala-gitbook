@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Validator Requirement
 
 ## How to become a validator <a href="#how-to-become-a-collator" id="how-to-become-a-collator"></a>

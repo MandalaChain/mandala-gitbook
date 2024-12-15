@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Run an Archive Node
 
 ## Overview <a href="#overview" id="overview"></a>

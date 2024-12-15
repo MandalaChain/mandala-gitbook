@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Run a Full Node
 
 ## Overview[​](https://docs.astar.network/docs/build/nodes/full-node#overview) <a href="#overview" id="overview"></a>

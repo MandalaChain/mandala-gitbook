@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Node Commands
 
 The following sections summarize the commands of Mandala Chain nodes you need for different cases. For any more details, you can consult the help page:

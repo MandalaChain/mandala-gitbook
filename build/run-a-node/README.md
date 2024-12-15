@@ -1,3 +1,9 @@
+---
+description: >-
+  This implementation is based on the Substrate parachain template and is part
+  of the larger Polkadot SDK. This guide will help you set up and run the
+  Mandala Node on your system.
+---
+
 # Run a Node
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Run an Archive Node</td><td></td><td></td><td><a href="run-an-archive-node.md">run-an-archive-node.md</a></td></tr><tr><td>Run a Validator Node</td><td></td><td></td><td><a href="run-a-validator-node.md">run-a-validator-node.md</a></td></tr><tr><td>Run a Collator Node</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Run a Full Node</td><td></td><td></td><td><a href="run-a-full-node.md">run-a-full-node.md</a></td></tr><tr><td>Node Commands</td><td></td><td></td><td><a href="node-commands.md">node-commands.md</a></td></tr></tbody></table>
